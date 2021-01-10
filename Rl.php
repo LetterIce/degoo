@@ -1,3 +1,5 @@
+<?php
+
 require_once 'degoo.class.php';
 try{
     $degoo = new Degoo('421juanda@gmail.com', 'q86pxcjm0egn' );
